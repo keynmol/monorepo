@@ -1,0 +1,6 @@
+[submodule "apps/mimalyzer"]
+	path = apps/mimalyzer
+	url = git@github.com:keynmol/mimalyzer
+[submodule "apps/scala-treesitter-highlighting"]
+	path = apps/scala-treesitter-highlighting
+	url = git@github.com:keynmol/scala-treesitter-highlighting
